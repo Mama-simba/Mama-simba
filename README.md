@@ -21,9 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=mama-simba&style=flat-square&color=green" alt=""/>
   
   <h1>
-  Hey there, I'm Cristina!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+    Hey there, I'm Cristina!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
 ---
@@ -44,7 +44,9 @@
 - ❓ Ask me anything about my content: frontend tutorials, online marketing or career switch tips. I'm happy to help! <em>#sharingiscaring</em>
 - ✨ In my free time, I like contributing to [Freecodecamp](https://www.freecodecamp.org/espanol/) by translating technical articles to help growing the Spanish speaking community <em>#keepgoingkeepgrowing</em>
 
-<br>
+---
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 

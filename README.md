@@ -32,6 +32,8 @@
   <img src="https://pbs.twimg.com/profile_banners/1385129072267866112/1656325773/1500x500" width="1033" height="345"/>
 </div>
 
+<br>
+
 ### :woman_technologist: About Me :
 
 <h4>I'm an online marketing specialist and a selft-taught frontend developer based in Berlin, with a passion for technology, learning, and solving real-world problems through code.</h4>
@@ -42,11 +44,40 @@
 - ❓ Ask me anything about my content: frontend tutorials, online marketing or career switch tips. I'm happy to help! <em>#sharingiscaring</em>
 - ✨ In my free time, I like contributing to [Freecodecamp](https://www.freecodecamp.org/espanol/) by translating technical articles to help growing the Spanish speaking community <em>#keepgoingkeepgrowing</em>
 
+<br>
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+</div>
+
+
+
+
+
 <!--
-**Mama-simba/Mama-simba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
+
+  
+  
+
+  
+  
+  
 
 
 Experience in SEO, SEM, PSM, PCM, CRO, Landing Pages A/B testing

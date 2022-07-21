@@ -36,9 +36,9 @@
 
 <h4>I'm an online marketing specialist and a selft-taught frontend developer based in Berlin.</h4>
 
-- 👀 I'm always learning about Frontend Development technologies to improve and keep my knowledge up to date <em>##neverstoplearning</em>
-- 👥 I’m looking to collaborate with other codenewbies in projects or on Open Source <em>#teamwork</em>
-- 🚧 I'm currently working on projects to showcase in [my portfolio](https://www.cristina-padilla.com/#projects) and [my blog](https://www.cristina-padilla.com/blog.html) <em>#fakeittillyoumakeit</em>
+- 👀 I'm always learning about Frontend technologies to improve and keep my knowledge up to date <em>#neverstoplearning</em>
+- 👥 I’m looking to collaborate with other developers in projects or on Open Source <em>#teamwork</em>
+- 💪 I'm currently working on projects to showcase in [my portfolio](https://www.cristina-padilla.com/#projects) and [my blog](https://www.cristina-padilla.com/blog.html) <em>#fakeittillyoumakeit</em>
 - ❓ Ask me anything about my content: frontend tutorials, online marketing or career switch tips. I'm happy to help! <em>#sharingiscaring</em>
  
 

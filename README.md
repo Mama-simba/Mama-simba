@@ -80,6 +80,10 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Easy tips to stop procrastinating](https://dev.to/crispitipina/easy-tips-to-stop-procrastinating-2n3o)
+- [Imposter syndrome](https://dev.to/crispitipina/imposter-syndrome-332d)
+- [Software development, where to start?](https://dev.to/crispitipina/software-development-where-to-start-41i7)
+- [Is coding for me?](https://dev.to/crispitipina/is-coding-for-me-4mnc)
 <!-- BLOG-POST-LIST:END -->
 
 

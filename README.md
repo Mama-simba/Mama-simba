@@ -36,10 +36,10 @@
 
 ### :woman_technologist: About Me :
 
-<h4>I'm an online marketing specialist and a selft-taught frontend developer based in Berlin, with a passion for technology, learning, and solving real-world problems through code.</h4>
+<h4>I'm an online marketing specialist and a selft-taught frontend developer based in Berlin with a passion for technology, learning, and solving real-world problems through code.</h4>
 
 - 👀 I'm always learning about Frontend technologies to improve and keep my knowledge up to date <em>#neverstoplearning</em>
-- 👥 I’m looking to collaborate with other developers in projects or on Open Source <em>#teamwork</em>
+- 👥 I’m looking to collaborate with other developers in team projects or on Open Source <em>#teamwork</em>
 - 💪 I'm currently working on [my blog](https://www.cristina-padilla.com/blog.html) and on projects to showcase in [my portfolio](https://www.cristina-padilla.com/#projects) <em>#fakeittillyoumakeit</em>
 - ❓ Ask me anything about my content: frontend tutorials, online marketing or career switch tips. I'm happy to help! <em>#sharingiscaring</em>
 - ✨ In my free time, I like contributing to [Freecodecamp](https://www.freecodecamp.org/espanol/) by translating technical articles to help growing the Spanish speaking community <em>#keepgoingkeepgrowing</em>

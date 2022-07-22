@@ -65,6 +65,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mama-simba&theme=neon-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mama-simba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 
@@ -72,18 +89,11 @@
 <!--
 
 
-
-
   
   
 
   
-  
-  
-
-
-Experience in SEO, SEM, PSM, PCM, CRO, Landing Pages A/B testing
-
+ 
 
 
 -->

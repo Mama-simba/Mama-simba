@@ -80,10 +80,10 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Your blog: your rubber duck](https://dev.to/crispitipina/your-blog-your-rubber-duck-14ec)
 - [CSS positioning: how to?](https://dev.to/crispitipina/css-positioning-how-to-1bbo)
 - [Unboxing the box model](https://dev.to/crispitipina/unboxing-the-box-model-1n5f)
 - [Getting out of the comfort zone](https://dev.to/crispitipina/getting-out-of-the-comfort-zone-5ha)
-- [Easy tips to stop procrastinating](https://dev.to/crispitipina/easy-tips-to-stop-procrastinating-2n3o)
 <!-- BLOG-POST-LIST:END -->
 
 

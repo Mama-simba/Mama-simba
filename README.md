@@ -36,7 +36,7 @@
 
 ### :woman_technologist: About Me :
 
-<h4>I'm an online marketing specialist and a selft-taught frontend developer based in Berlin with a passion for technology, learning, and solving real-world problems through code.</h4>
+<h4>I'm an online marketing specialist and a self-taught frontend developer based in Berlin with a passion for technology, learning, and solving real-world problems through code.</h4>
 
 - 👀 I'm always learning about Frontend technologies to improve and keep my knowledge up to date <em>#neverstoplearning</em>
 - 👥 I’m looking to collaborate with other developers in team projects or on Open Source <em>#teamwork</em>

@@ -84,6 +84,8 @@
 - [CSS positioning: how to?](https://dev.to/crispitipina/css-positioning-how-to-1bbo)
 - [Unboxing the box model](https://dev.to/crispitipina/unboxing-the-box-model-1n5f)
 - [Getting out of the comfort zone](https://dev.to/crispitipina/getting-out-of-the-comfort-zone-5ha)
+- [Easy tips to stop procrastinating](https://dev.to/crispitipina/easy-tips-to-stop-procrastinating-2n3o)
+- [Imposter syndrome](https://dev.to/crispitipina/imposter-syndrome-332d)
 <!-- BLOG-POST-LIST:END -->
 
 

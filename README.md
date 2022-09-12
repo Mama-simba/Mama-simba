@@ -81,7 +81,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript greetings: Hello World!](https://dev.to/crispitipina/javascript-greetings-hello-world-1dp9)
-- [Your blog: your rubber duck](https://dev.to/crispitipina/your-blog-your-rubber-duck-14ec)
+- [Explain it to your rubber duck](https://dev.to/crispitipina/your-blog-your-rubber-duck-14ec)
 - [CSS positioning: how to?](https://dev.to/crispitipina/css-positioning-how-to-1bbo)
 - [Unboxing the box model](https://dev.to/crispitipina/unboxing-the-box-model-1n5f)
 - [Getting out of the comfort zone](https://dev.to/crispitipina/getting-out-of-the-comfort-zone-5ha)

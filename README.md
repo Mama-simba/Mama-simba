@@ -42,7 +42,7 @@
 - 👥 I’m looking to collaborate with other developers in team projects or on Open Source <em>#teamwork</em>
 - 💪 I'm currently working on [my blog](https://www.cristina-padilla.com/blog.html) and on projects to showcase in [my portfolio](https://www.cristina-padilla.com/#projects) <em>#fakeittillyoumakeit</em>
 - ❓ Ask me anything about my content: frontend tutorials, online marketing or career switch tips. I'm happy to help! <em>#sharingiscaring</em>
-- ✨ In my free time, I like contributing to [Freecodecamp](https://www.freecodecamp.org/espanol/news/author/cristinapadilla) by translating technical articles to help growing the Spanish speaking community <em>#keepgoingkeepgrowing</em>
+- ✨ In my free time, I like contributing to [Freecodecamp](https://www.freecodecamp.org/espanol/news/author/cristinapadilla) by translating technical articles to help growing the Spanish speaking community & creating content on [How-to-dev](https://how-to.dev/) with [Marcin Wosinek](https://github.com/marcin-wosinek) to help aspiring or junior developers <em>#keepgoingkeepgrowing</em>
 
 ---
 

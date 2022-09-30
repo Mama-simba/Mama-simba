@@ -10,6 +10,9 @@
     <a href="https://dev.to/crispitipina">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DevTo Badge"/>
     </a>
+    <a href="https://cristinapadilla.hashnode.dev/">
+     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+    </a>
     <a href="https://www.freecodecamp.org/espanol/news/author/cristinapadilla">
       <img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="Ghost Badge"/>
     </a>

@@ -83,12 +83,12 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy your own API and build cool projects](https://dev.to/crispitipina/deploy-your-own-api-and-build-cool-projects-2p6e)
 - [Why you shouldn&#39;t ignore .gitignore](https://dev.to/crispitipina/why-you-shouldnt-ignore-gitignore-3ilj)
 - [Master basic Git commands](https://dev.to/crispitipina/master-basic-git-commands-40k6)
 - [Git vs GitHub](https://dev.to/crispitipina/git-vs-github-1i28)
 - [JavaScript greetings: Hello World!](https://dev.to/crispitipina/javascript-greetings-hello-world-1dp9)
 - [Explain it to your rubber duck](https://dev.to/crispitipina/your-blog-your-rubber-duck-14ec)
-- [CSS positioning: how to?](https://dev.to/crispitipina/css-positioning-how-to-1bbo)
 <!-- BLOG-POST-LIST:END -->
 
 

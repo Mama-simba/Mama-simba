@@ -32,7 +32,7 @@
 ---
 
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1385129072267866112/1656325773/1500x500" />
+  <img src="https://twitter.com/crispitipina/header_photo" />
 </div>
 
 <br>

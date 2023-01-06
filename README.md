@@ -84,12 +84,12 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Git rebase interactive: the story of a clean repo history](https://dev.to/crispitipina/git-rebase-interactive-the-story-of-a-clean-repo-history-16ag)
 - [Git rebase: the scary command](https://dev.to/crispitipina/git-rebase-the-scary-command-35kh)
 - [The Collab Lab TCL-49 Recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-49-recap-429d)
 - [DOM Manipulation: part II](https://dev.to/crispitipina/dom-manipulation-part-ii-4pka)
 - [DOM Manipulation: part I](https://dev.to/crispitipina/dom-manipulation-part-i-33f2)
 - [Deploy your own API and build cool projects](https://dev.to/crispitipina/deploy-your-own-api-and-build-cool-projects-2p6e)
-- [Why you shouldn&#39;t ignore .gitignore](https://dev.to/crispitipina/why-you-shouldnt-ignore-gitignore-3ilj)
 <!-- BLOG-POST-LIST:END -->
 
 

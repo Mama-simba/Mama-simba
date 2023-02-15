@@ -84,12 +84,12 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get the most out of a code review](https://dev.to/crispitipina/how-to-get-the-most-out-of-a-code-review-nmj)
 - [How pair programming can change your coding experience](https://dev.to/crispitipina/how-pair-programming-can-change-your-coding-experience-jnh)
 - [What is the Local Storage for?](https://dev.to/crispitipina/what-is-the-local-storage-for-1fpp)
 - [Git rebase interactive: the story of a clean repo history](https://dev.to/crispitipina/git-rebase-interactive-the-story-of-a-clean-repo-history-16ag)
 - [Git rebase: the scary command](https://dev.to/crispitipina/git-rebase-the-scary-command-35kh)
 - [The Collab Lab TCL-49 Recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-49-recap-429d)
-- [DOM Manipulation: part II](https://dev.to/crispitipina/dom-manipulation-part-ii-4pka)
 <!-- BLOG-POST-LIST:END -->
 
 

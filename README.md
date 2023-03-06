@@ -84,12 +84,12 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My dev experience at The Collab Lab](https://dev.to/crispitipina/my-dev-experience-at-the-collab-lab-j8l)
 - [Accessibility: what, why and how?](https://dev.to/crispitipina/accessibility-what-why-and-how-2cih)
 - [How to get the most out of a code review](https://dev.to/crispitipina/how-to-get-the-most-out-of-a-code-review-nmj)
 - [How pair programming can change your coding experience](https://dev.to/crispitipina/how-pair-programming-can-change-your-coding-experience-jnh)
 - [What is the Local Storage for?](https://dev.to/crispitipina/what-is-the-local-storage-for-1fpp)
 - [Git rebase interactive: the story of a clean repo history](https://dev.to/crispitipina/git-rebase-interactive-the-story-of-a-clean-repo-history-16ag)
-- [Git rebase: the scary command](https://dev.to/crispitipina/git-rebase-the-scary-command-35kh)
 <!-- BLOG-POST-LIST:END -->
 
 
